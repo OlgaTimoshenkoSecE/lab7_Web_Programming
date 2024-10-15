@@ -1,3 +1,5 @@
+// extrenal javascript
+
 document.getElementById("button").addEventListener("click", addTask);
 function addTask() {
     let newContainer = document.createElement("div"); // main container
